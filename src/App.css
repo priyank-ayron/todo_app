@@ -14,8 +14,9 @@
   height: auto;
 }
 .center_div {
-  width: 25%;
-  min-height: 80vh;
+  min-width: 40vh;
+  max-width: 75%;
+  min-height: 70vh;
   background-color: #f4f4f4;
   box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
   border-radius: 15px;
